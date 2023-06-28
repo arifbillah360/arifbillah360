@@ -2,7 +2,7 @@
 <br>
 ### Hi there 👋, My Name Is Arif Billah
 #### System Administrator & Web Developer.
-I am a Web developer & Server Administrator. I had expertise in Web development and Linux Server. I am passionate about web, server and have successfully managed high-profile projects and configuration, development teams. I have strong troubleshooting and Development skills with a quick understanding of the technical processes.  I’m an energetic and highly-professional engineer. If you want to know about special or innovative things, just knock me. 
+I am a Web developer & Server Administrator. I had expertise in Web development and Linux Server. I am passionate about web, servers and have successfully managed high-profile projects and configuration, and development teams. I have strong troubleshooting and Development skills with a quick understanding of technical processes.  I’m an energetic and highly-professional engineer. If you want to know about special or innovative things, just knock me. 
 
 #### - MY SERVICES:
 - Web Development
@@ -19,8 +19,8 @@ I am a Web developer & Server Administrator. I had expertise in Web development 
 - Mail server Configure
 - DNS/Nameserver Issue
 - Web Hosting setup/configure
-- cpanel, Cloudlinux, Softaculous, jetBackup install/configuration
-- Plesk, Webmin, Cyberpanel & others Web control panels install, configure
+- CPanel, Cloudlinux, Softaculous, jetBackup install/configuration
+- Plesk, Webmin, Cyberpanel & other Web control panels install, configure
 - Kali Linux, Ubuntu, centos, Armlinux Expart
 - And my skill-related Bug/Issue Fix. 
 
