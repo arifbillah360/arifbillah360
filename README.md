@@ -1,4 +1,3 @@
-<img src="https://arifbillah.com/wp-content/uploads/2022/09/arifbillah360com.png" />
 <br>
 ### Hi there 👋, My Name Is Arif Billah
 #### System Administrator & Web Developer.
